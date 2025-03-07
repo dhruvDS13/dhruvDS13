@@ -1,7 +1,7 @@
 
 [ReadMe.md](https://github.com/user-attachments/files/19124122/ReadMe.md)
 
-# Hi! I'm DHruv Kumar Singh
+# Hi! I'm Dhruv Kumar Singh
 # 💫 About Me:
 🔭 I’m currently working on Data Science/ML<br>🌱 I’m currently learning on PyTorch and TensorFlow
 
